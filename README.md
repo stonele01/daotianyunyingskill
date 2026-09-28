@@ -15,7 +15,11 @@
 
 ## 安装/导入
 
-把完整 `daotianyunyingskill` 文件夹交给所用 Agent 的 Skill 管理器导入。根目录 `SKILL.md` 是唯一入口；不要只复制 README 或入口文件。导入后先以一份可公开或脱敏的 Excel/CSV 试用数据分析任务。
+**给你的 Agent 发送项目地址即可安装。**
+
+```text
+请帮我安装稻田运营技能：https://github.com/stonele01/daotianyunyingskill
+```
 
 项目地址：https://github.com/stonele01/daotianyunyingskill 。下载或更新后查看 SKILL.md 的版本号，带本次账号洞察集成的版本应为 **1.1.0**。本仓库已同步 1.1.0；可从 Code → Download ZIP 获取完整技能。
 
@@ -51,6 +55,8 @@
 已有组件的合成样例与浏览器回归通过记录，不等于本次组合在真实账号、付费接口或所有 Agent 中已实测通过。总技能的版本和组件来源见 references/components.md 与 SOURCE-MANIFEST.json。
 
 ## 员工使用手册
+
+[在线阅读操作手册](https://stonele01.github.io/daotianyunyingskill/)
 
 [下载 Word 操作手册](docs/稻田运营总技能使用手册-1.1.0.docx)
 
