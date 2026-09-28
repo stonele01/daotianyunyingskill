@@ -16,9 +16,14 @@
   analysis/                field-map.csv、summary.csv/xlsx、report.md、calculation.py/公式、validation.md、按需 next-round.md
   diagnosis/               按需生成的 db 内容或经营诊断
   archive/                 index.csv、案例卡
+  account-insight/         按需生成的账号采集、转写与结构化分析
+  site/                    按需生成的 HTML 及本地头像、封面、帧图
+  report.zip               当前账号的可分享报告包
 ```
 
 不复制无权保存的原片；允许时可存原片或只引用用户原文件。公司资料不进入技能包和分发压缩包。
+
+site 与 report.zip 仅在用户需要账号报告时生成；共享报告包与技能发行包分开，不能把业务报告打进技能。帧图片路径采用 assets/frames/<referenceId>/<file>，详细规则见 account-insight.md。报告与脚本生产使用同一来源映射；升级技能不自动重建旧报告。
 
 ## 状态和 ID
 

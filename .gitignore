@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+/workspace/
+/运营任务/
+/components/douyin-insight/workspace/

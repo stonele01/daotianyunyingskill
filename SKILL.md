@@ -2,7 +2,7 @@
 name: daotianyunyingskill
 description: 完成快手为主、兼顾抖音的运营任务：按产品找同款高表现视频、理解画面和声音、生成原创脚本与分镜、审核、用 Data Analyst 分析授权提供的 Excel/CSV 并复盘，整理内容资产，按需使用 dbskill 做内容及经营诊断。用户说找爆款、分析视频、写稿、审核、分析运营数据、复盘或整理素材时使用。
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # 稻田运营技能
@@ -22,6 +22,7 @@ metadata:
 |---|---|---|
 | 找某产品的爆款、热点、对标 | [找参考](references/discovery.md)、[工具接入](references/tools.md) | 实际搜索的同款作品、原链接、产品匹配证据、可见指标和筛选理由；用户只要清单就到此结束 |
 | 分析一个或多个视频 | [视频理解](references/video.md)、[工具接入](references/tools.md) | 画面／口播／字幕时间线、证据、结构、可借鉴部分与未知项 |
+| 分析抖音账号、评论需求、口播金句，或生成带截图的账号报告 | [账号洞察与证据报告](references/account-insight.md)、[视频理解](references/video.md) | 账号与样本表现、评论原文、合格口播拆解、截图证据与 HTML／ZIP；局部失败明确缺口 |
 | 从找参考做到可拍脚本 | 上述文件＋[脚本与审核](references/production.md) | 候选→重点拆解→默认三条差异脚本与分镜→审核→制作交接 |
 | 已有产品资料，写稿／改稿／标题／审核 | [脚本与审核](references/production.md) | 按要求产出或修改；无需为了走流程重新搜索 |
 | 分析 Excel/CSV、比较素材表现、做数据复盘 | [数据分析](references/data-analysis.md)、[工具接入](references/tools.md) | 数据质量与口径、可复算的汇总与图表、结论及限制；要求复盘时继续交付下一轮测试建议 |
@@ -47,6 +48,8 @@ metadata:
 ## 组件规则
 
 指定的 12 个 dbskill 模块完整保留在 upstream/dbskill，web-access 的方法与脚本在 upstream/web-access，Hypit 仅保留视频理解资料与许可；Data Analyst 的分析、数据探索、校验及必要统计／图表方法在 upstream/anthropic-data。映射、改动和许可见 [组件说明](references/components.md) 与 [来源及许可](THIRD-PARTY-NOTICES.md)。
+
+`components/douyin-insight` 已打包抖音账号洞察的执行脚本、模板及 2026-09-28 的画面证据与封面修正。它是内部组件，不需要员工另外调用或安装同名独立技能。总入口负责从已有任务材料继续执行并把结果交给脚本、审核和归档环节；仅需视频拆解时不强制采集整个账号。组件内 SOURCE.md 的路径相对组件根目录，任务输出和配置规则以 [账号洞察与证据报告](references/account-insight.md) 为准。组件是否有脚本、依赖是否可用、本次业务是否通过分别记录。
 
 数据分析复用 Anthropic Data Analyst，平台口径和跨环节交接由本包轻量适配；dbs-diagnosis 保持经营诊断职责。分析优先使用用户授权提供的导出文件，不默认连接后台或调用收费取数服务。
 

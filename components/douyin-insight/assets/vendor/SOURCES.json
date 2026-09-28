@@ -1,0 +1,20 @@
+[
+  {
+    "file": "gsap.min.js",
+    "source": "https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js",
+    "sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6",
+    "matchesExistingLocalAsset": true
+  },
+  {
+    "file": "lucide.min.js",
+    "source": "https://unpkg.com/lucide@1.48.0/dist/umd/lucide.min.js",
+    "sha256": "344d31835187df329541d22325fa9b97f94bb012b520a41b9b4a74a1a4d9c637",
+    "matchesExistingLocalAsset": true
+  },
+  {
+    "file": "LUCIDE-LICENSE.txt",
+    "source": "https://unpkg.com/lucide@1.48.0/LICENSE",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+    "matchesExistingLocalAsset": false
+  }
+]

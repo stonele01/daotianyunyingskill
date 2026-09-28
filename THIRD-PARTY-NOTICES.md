@@ -1,6 +1,6 @@
 # 来源、许可与部署事项
 
-整理日期：2026-09-27。包名 daotianyunyingskill，版本 1.0.0；该名称不代表原作者或平台官方产品。制作本地技能包没有完成账号授权、服务订购或公司部署。
+整理日期：2026-09-28。包名 daotianyunyingskill，版本 1.1.0；该名称不代表原作者或平台官方产品。制作本地技能包没有完成账号授权、服务订购或真实业务验收。
 
 ## dbskill
 
@@ -33,7 +33,14 @@
 - 保留 analyze、explore-data、validate-data、statistical-analysis、data-visualization 五份方法及 CONNECTORS.md；原 SKILL.md 仅更名 SOURCE.md，内容不改。自有适配文件为 references/data-analysis.md，修改与映射记录见 references/components.md。
 - 不包含 Anthropic xlsx 专有材料、数据库连接配置和完整 Claude 插件安装器；也不表示已购买或连接 Anthropic 服务。
 
-## 其他依赖与数据
+## 抖音账号洞察与报告组件
+
+- 原项目：https://github.com/whwhw/douyin-comment-insight-free 。本包使用 2026-09-28 的本地改造副本，未确认它对应上游哪个提交，不将其标成原版最新发布。
+- 组件根许可为 MIT，原版权文字保存在 components/douyin-insight/LICENSE。本地改造包含画面证据 schema、取帧与合并脚本、模板渲染、离线资源、图片准备及实际渲染范围校验。
+- 模板所带第三方前端库按各自许可管理：Lucide 许可、GSAP 声明和来源见组件 assets/vendor。MIT 不替换 GSAP 的独立条款，也不改变本包其他组件授权。
+- 完整文件来源与 SHA-256 见 SOURCE-MANIFEST.json。本包不附凭据、登录状态、付费额度、原始账号材料或个人运行环境。
+
+## 运行依赖与业务数据
 
 Python、FFmpeg、Pillow、宿主 Agent／模型、浏览器和付费数据／ASR 服务按各自许可与条款使用。本包不附它们的二进制或模型。第三方模型费用、API 费用与订阅费用分别计算；没有实际调用不编造费用。
 

@@ -678,5 +678,509 @@
     "sha256": "5811e8b3547cda6bc8af118aaf0d7589e8861cdc9facce6372dc78aea99ab87d",
     "git_blob": "409cce60f59b463a8386c83cde03dc7e70be93f3",
     "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": ".env.example",
+    "package_path": "components/douyin-insight/.env.example",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "d047c416352e37e008670d30c096d79ae8d32d7e39285da711dd422c5d61de22",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "edition.json",
+    "package_path": "components/douyin-insight/edition.json",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "1789ea1e78172ee10be7005251099e3cd994e54b302d44c42690cd7f49accf60",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "LICENSE",
+    "package_path": "components/douyin-insight/LICENSE",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "15fc113bd6297b88f63ecf85ad636054a97e7c578bb90007409945c59b12ab5b",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "requirements.txt",
+    "package_path": "components/douyin-insight/requirements.txt",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "dfb599a9b86d5de859901751a5562b7103217f4de74f4313c95998ea422c345a",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "SKILL.md",
+    "package_path": "components/douyin-insight/SOURCE.md",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "b8368dcf3fa3c6662fcf5fd114787dcc2b71421f1c3b71b5c1c459e4149da10b",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified; SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "references/analysis-schema.md",
+    "package_path": "components/douyin-insight/references/analysis-schema.md",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "dda84d8d0b56ba8825daf7f5e9016235be719f0257876c14a62560973e34b1f0",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "references/basic-analysis.md",
+    "package_path": "components/douyin-insight/references/basic-analysis.md",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "788fd221b45ab8415d4a15ccf75f48d7f64dc226bd45a5a0b630b93aa4d526be",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "references/frame-evidence.md",
+    "package_path": "components/douyin-insight/references/frame-evidence.md",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "dc63b0f5565e2a6b671dea17c5d1eada06c232fa7a256ee610e0d60f76fcdc3c",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "references/high-speed.md",
+    "package_path": "components/douyin-insight/references/high-speed.md",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "bd21e70d63b409b79c2f2db499058422828a89e0cd5b6d426a22cf1bff28258e",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "references/setup.md",
+    "package_path": "components/douyin-insight/references/setup.md",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "d650c79ee07338b5db812db76c00dcc6e76ea75721d2675882dcc2700db64f82",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/analyze_comments.py",
+    "package_path": "components/douyin-insight/scripts/analyze_comments.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "9c11ec7324cab371e2f6f76e453c805d1a04b3a8d0a400b4705b08255b498cb5",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/brief.py",
+    "package_path": "components/douyin-insight/scripts/brief.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "b7427de8a73cfe8e38274e006831dc74acb7f60514705d6b120e544a62479b4c",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/build_report.mjs",
+    "package_path": "components/douyin-insight/scripts/build_report.mjs",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "bd62281d5861f039bc27235c8707b9c16c6e5bb0babedebf9afad5def98f5272",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/check_html_syntax.cjs",
+    "package_path": "components/douyin-insight/scripts/check_html_syntax.cjs",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "bdb19e31d816057feab91baf6ad64096d0b94eb0e840ccd3b086c71afe493459",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/cloud_asr.py",
+    "package_path": "components/douyin-insight/scripts/cloud_asr.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "91a119661580153bd53a2027c5d09223ac4ffc4980fa1b5f4d0e0dcbd3fd8900",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/doctor.py",
+    "package_path": "components/douyin-insight/scripts/doctor.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "764f9e081f522ff73cdb2600382b9803c1a9c47f59d2066500bf66a1e1aa40f7",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/export_report.py",
+    "package_path": "components/douyin-insight/scripts/export_report.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "566d685da41d5442b62344017ea5c39b4ea38073c1b2766df87c96d41aa8da02",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/fetch_account_data.py",
+    "package_path": "components/douyin-insight/scripts/fetch_account_data.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "223b53f2c6f220b26677153d823d35fc3dfe036f6c9ea50fce5248425ae1f93d",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/finalize_analysis.py",
+    "package_path": "components/douyin-insight/scripts/finalize_analysis.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "6169de4e90e47d20bf601c5950502d56219044ef3c5b3e326e000f03cc444e1d",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/frame_evidence.py",
+    "package_path": "components/douyin-insight/scripts/frame_evidence.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "03a37a8a92e857799e0b2b2dbec7bdbab2c7f01325213ba788de96ea417edc8b",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/localize_assets.py",
+    "package_path": "components/douyin-insight/scripts/localize_assets.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "d4505ff20d1122d42608dfa2180a57c0b685ae36dbb4f2e7021a079d6995996e",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/local_asr.py",
+    "package_path": "components/douyin-insight/scripts/local_asr.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "1ab014f1f47a94ba2d76adccbececbef98edede51b5b3c97ad0ffb1c498eb960",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/media.py",
+    "package_path": "components/douyin-insight/scripts/media.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "b24dcfdafa8f91c9422faee241bf98a1ce8a0865c01a8024663293d06ade23b3",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/prep_frames.mjs",
+    "package_path": "components/douyin-insight/scripts/prep_frames.mjs",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "37f8723d47cce8992e1eea3071f20ff63b9744619ea9740eb2b79f560ee46840",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/progress.py",
+    "package_path": "components/douyin-insight/scripts/progress.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "e8c273d9e53730a2ecc6cf6cf50b0e0b7fc73946e1d7cebe5c883145c98b2f16",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/pro_contract.py",
+    "package_path": "components/douyin-insight/scripts/pro_contract.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "53a17761b0ebd259a2ca96a6895965b9684036b447eb6fc8b0bddf6143a8b584",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/publish_report.py",
+    "package_path": "components/douyin-insight/scripts/publish_report.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "1e7489bab9d82e2cbc9cf4a0b123b0b9f7bf74d49f4d1bc14ca1c562aa4723d4",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/runtime.py",
+    "package_path": "components/douyin-insight/scripts/runtime.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "6c44cd281e45f3bfc6457a1bdc2879d56175f2c3a525335ac6e2976370feb56b",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/test_frame_evidence.cjs",
+    "package_path": "components/douyin-insight/scripts/test_frame_evidence.cjs",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "1cafb80cf19abd051d376563c4ef81650c983c6ccfe60e34aff6e784b6fb9b67",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/transcribe_works.py",
+    "package_path": "components/douyin-insight/scripts/transcribe_works.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "a5f1ac4ee610e11b264badcecb6e3f780148c2281eb3e6ada825d720db9c41f7",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/transcript_reading.py",
+    "package_path": "components/douyin-insight/scripts/transcript_reading.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "c4001482781835c89b2047b9728103525cd16dbe66235a0103abaa2023c9b7ce",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/validate_report_assets.cjs",
+    "package_path": "components/douyin-insight/scripts/validate_report_assets.cjs",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "e72d627d5fbf7c82c20a22ddb579c268f99ab0cf3d28763d4ada928c68268f44",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/workflow.py",
+    "package_path": "components/douyin-insight/scripts/workflow.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "49c5c522ce0f7a919a49654057870ebff532b7d9d99689276875ff39187f05ab",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "scripts/work_insight.py",
+    "package_path": "components/douyin-insight/scripts/work_insight.py",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "35edb9d54b68baa46d51100eaf64663608fecaf3e750864b4feeb99b7417a65e",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/brain.png",
+    "package_path": "components/douyin-insight/assets/icons/brain.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "68cc7d9eceb06f69aae2d6c7631097ccd07a275430da79ac16d43629b7717525",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/briefcase.png",
+    "package_path": "components/douyin-insight/assets/icons/briefcase.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "14a645f00ca46df5d8318da288ea7cf3deedd2ffe0ca6d9ae64965541843de30",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/chart.png",
+    "package_path": "components/douyin-insight/assets/icons/chart.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "50edaa2b09484373792f6d2ffdde9877f237d97ccfb6a94084fafb4e14c58188",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/chat.png",
+    "package_path": "components/douyin-insight/assets/icons/chat.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "d4ab0aea2cd18da1b0a4c79c9d5688e97a2697c1e56557a6da274c1b43fec543",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/file.png",
+    "package_path": "components/douyin-insight/assets/icons/file.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "f35da0c4294dd840c84b3aa9a8175faa385dbab0c03ed822e9bbf87a9f799b2c",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/flow.png",
+    "package_path": "components/douyin-insight/assets/icons/flow.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "5810d4784f59643f46da71578e414118cd7a55e5cc3eadddfc9464432e94e7a3",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/icons/spark.png",
+    "package_path": "components/douyin-insight/assets/icons/spark.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "982b92645bf7c1d4861619baafec3dacf0f76989ef6beff4648dfccf262cee09",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/templates/index.html",
+    "package_path": "components/douyin-insight/assets/templates/index.html",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "da45038362b61d114a050194592f67f84bc82eb1bd28ca32c7bd1273e1fd52ac",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/templates/report.html",
+    "package_path": "components/douyin-insight/assets/templates/report.html",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "56fdc0171b03f7515bf2af6336f6be3304e473bbc71e96c6d121ee91881dde2f",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/core-insight-card-user-v2.png",
+    "package_path": "components/douyin-insight/assets/ui/core-insight-card-user-v2.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "0ad8cd6761db001902b3aba7aab59b9c70a76b52505b33a366ae027312a9e9c1",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/core-insight-card.png",
+    "package_path": "components/douyin-insight/assets/ui/core-insight-card.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "f9563076734a9a7656599c702c6f864016e180922548457d610aaad94056f099",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/core-radar-smaller-v1.png",
+    "package_path": "components/douyin-insight/assets/ui/core-radar-smaller-v1.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "e25e6abeb73169db6f532fde1d689fe2f1c83371fdf1029d1c81d863d1a02b07",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/dashboard-icons.png",
+    "package_path": "components/douyin-insight/assets/ui/dashboard-icons.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "605c5cb47ddaed7726dbd3e353e247a239e08ca09a433348a4b9a95966886ee5",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/index-insights.js",
+    "package_path": "components/douyin-insight/assets/ui/index-insights.js",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "89441c03d8081e21ddd1df03843c6916705de16cbcb06ed6fdff3fdf58d00a31",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/index.css",
+    "package_path": "components/douyin-insight/assets/ui/index.css",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "ceb3afae197dca7e58ac9ba531d879f81937e662054ab34d107bebdcff947f36",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/page-background-user-1a2b851b.png",
+    "package_path": "components/douyin-insight/assets/ui/page-background-user-1a2b851b.png",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "8a110618bb20fb1ccde97ae0db5b6c21ec6cc76c981b164c6a799b34564510d8",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/ui/report.css",
+    "package_path": "components/douyin-insight/assets/ui/report.css",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "38033770624ae34bbd1344a198a1676a872a9b1032a39767ca8e2d15291c86e9",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/vendor/GSAP-NOTICE.txt",
+    "package_path": "components/douyin-insight/assets/vendor/GSAP-NOTICE.txt",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "ec99f45b76b67b9510949bec8767d0c7c6462b47c19e256e0f2fce591eb922f9",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/vendor/gsap.min.js",
+    "package_path": "components/douyin-insight/assets/vendor/gsap.min.js",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/vendor/LUCIDE-LICENSE.txt",
+    "package_path": "components/douyin-insight/assets/vendor/LUCIDE-LICENSE.txt",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/vendor/lucide.min.js",
+    "package_path": "components/douyin-insight/assets/vendor/lucide.min.js",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "344d31835187df329541d22325fa9b97f94bb012b520a41b9b4a74a1a4d9c637",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
+  },
+  {
+    "repository": "whwhw/douyin-comment-insight-free",
+    "commit": null,
+    "source_path": "assets/vendor/SOURCES.json",
+    "package_path": "components/douyin-insight/assets/vendor/SOURCES.json",
+    "url": "https://github.com/whwhw/douyin-comment-insight-free",
+    "sha256": "aa68907dc8637273bd04f8aac5cf2daba2725e872321180b3d0dc89cc85f9105",
+    "change": "Local snapshot with 2026-09-28 frame evidence and cover fixes; upstream commit unverified"
   }
 ]

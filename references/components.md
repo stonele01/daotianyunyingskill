@@ -1,6 +1,6 @@
 # 组件映射与适配记录
 
-本包只有根目录 SKILL.md 是可发现入口。上游 SKILL.md 改名 SOURCE.md，内容未修改，所有已打包文件在 SOURCE-MANIFEST.json 中记录来源提交、原路径和哈希。用户不需要另行调用下列入口。
+本包只有根目录 SKILL.md 是可发现入口。上游 SKILL.md 改名 SOURCE.md。原固定提交快照保留原文；新增的 douyin-insight 为本地改造快照，单独标明修改与未确认的上游提交。第三方组件文件在 SOURCE-MANIFEST.json 中记录来源、原路径和哈希。用户不需要另行调用下列入口。
 
 | 指定组件 | 本包使用位置 | 保留及调整 |
 |---|---|---|
@@ -23,6 +23,7 @@
 | Anthropic validate-data | data-analysis.md | 原方法完整保留；交付前复算、检查关联与分母，并保留实际核验记录 |
 | Anthropic statistical-analysis、data-visualization | data-analysis.md | 按需读取的统计和图表资料；不保证因果、不默认做预测或建仪表盘 |
 | dbs 总入口设计 | SKILL.md | 借鉴按任务选择能力；改为本轮直接执行并衔接，不让员工反复转发调用提示 |
+| douyin-comment-insight-free 本地改版 | account-insight.md、components/douyin-insight | 内置账号洞察、合格口播与评论校验、画面取证、原生 HTML 和 ZIP；移除独立发现入口与安装器，不复制配置、模型或业务数据 |
 
 新增部分：统一入口、跨阶段 ID／证据／版本交接、原创三稿与分镜、有限本地取证辅助、离线预检。脚本生产还参考了本工作区 content-production-brief 的既有方法；未将私人员工姓名或公司业务数据带入包。
 
@@ -35,3 +36,5 @@
 1.0.0 按用户确认接入 Anthropic Data Analyst 的五份方法文件、CONNECTORS.md 与独立 Apache-2.0 许可。来源固定为 knowledge-work-plugins 提交 da38ec1ee89d41e5380e652a97382695003396e7。仅 SKILL.md 改名 SOURCE.md，原文不改，来源清单记录全部文件。data-analysis.md 为新增平台与交接适配层，原文中的可选数据库/SQL 路径不属于本包文件分析路径；未打包 MCP 配置、仪表盘、上下文提取器、xlsx 专有技能或第三方运行环境。该组合是方法整合，未宣称公司真实数据已实测。
 
 上游只读快照保留以便追溯；不自动联网更新。版本升级先比较方法、脚本、依赖和许可，再重做相关验收。
+
+1.1.0：整合 2026-09-28 已完成的画面证据和封面兼容修正。56 个组件文件从已更新的本地副本按 manifest 白名单、逐文件哈希复制；SKILL.md 仅改名 SOURCE.md。组件包含原生模板、取帧／合并／校验／本地化／发布／导出脚本、必要依赖说明与许可。未打包独立 install.py、agents 入口、.env、.venv、workspace 或公司素材。组件来源及验收边界见 components/douyin-insight/INTEGRATION.md；本包新增的是账号与报告适配文档、任务交接和单入口路由，未再次修改组件运行代码。

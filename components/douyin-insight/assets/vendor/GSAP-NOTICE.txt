@@ -1,0 +1,6 @@
+GSAP 3.13.0
+Copyright 2025 GreenSock. All rights reserved.
+Source: https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js
+License stated by the upstream package: Standard no-charge license, https://gsap.com/standard-license
+Original copyright and license header preserved in gsap.min.js.
+This library was already loaded from a CDN by the original template; the same bytes are now served locally.
