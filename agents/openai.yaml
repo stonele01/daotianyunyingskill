@@ -1,0 +1,6 @@
+interface:
+  display_name: "稻田运营技能"
+  short_description: "同款视频搜索、声画拆解、脚本分镜、审核、表格分析复盘与经营诊断的统一入口"
+  default_prompt: "使用 $daotianyunyingskill，根据我的产品和已有资料完成本次运营任务，直接交付可用结果并保留证据。"
+policy:
+  allow_implicit_invocation: true

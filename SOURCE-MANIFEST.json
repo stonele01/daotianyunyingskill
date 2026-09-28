@@ -1,0 +1,682 @@
+[
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "LICENSE",
+    "package_path": "upstream/dbskill/LICENSE",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/LICENSE",
+    "sha256": "e90691446fd4c9fc7f89d29ac6aa86ece59755f8b4cae9966fd8bfe846887df7",
+    "git_blob": "a4c34ed84b3ed189fb9b3f0f245103df667faf23",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-ai-check/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-ai-check/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-ai-check/SKILL.md",
+    "sha256": "15515598528b6d98ae489cf8add3a9f797a76aafa81994f92ce6e1ff6f7f0b8b",
+    "git_blob": "cf48a7f291b66301dc5dd6957626300ee5ae62ec",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-benchmark/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-benchmark/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-benchmark/SKILL.md",
+    "sha256": "dbae586b3e98b7745638d208130b4604b855213accbaf9d7eacabe12f4fce225",
+    "git_blob": "6c6667c7640f83fcfd23d6932a0b08678024e09b",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-risk-check/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-content-risk-check/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-risk-check/SKILL.md",
+    "sha256": "7f4d1562715bfdb3588de0f8a50c6ed4dc6be4323514fa64b40d2f7d5929f5ea",
+    "git_blob": "21617d28a341a24f22ac84730a0531c4432b5a25",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-content-system/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/SKILL.md",
+    "sha256": "fa7299724f0df4b97af66add7a7ab66302bda7fc76439d2eb68cae1773ffa0af",
+    "git_blob": "c17109243913469f627c0e092f664147a442e703",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/docs/acceptance.md",
+    "package_path": "upstream/dbskill/dbs-content-system/docs/acceptance.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/docs/acceptance.md",
+    "sha256": "1a5b7c5a94f8eb4ef18e4a1dc544222c217a1a8c80d13fece1a19a3ed7cf0242",
+    "git_blob": "4e68f6b3d62caabb930d27f588f6c799704376c0",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/docs/quickstart.md",
+    "package_path": "upstream/dbskill/dbs-content-system/docs/quickstart.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/docs/quickstart.md",
+    "sha256": "54ee6935d156302ab85863c81455b55993b0075548483e341b69002df1a1d839",
+    "git_blob": "6e7d165f202266eaa6e8b1c0b7e71597c1cbcd39",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/root/AGENTS.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/root/AGENTS.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/root/AGENTS.md",
+    "sha256": "086efd98dbba1358956d7f645affd06646c2ba1fd6e411174ddd75411051372b",
+    "git_blob": "0fa7b9c97d22666cfa2e4597762d9430bd20c679",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/root/CLAUDE.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/root/CLAUDE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/root/CLAUDE.md",
+    "sha256": "e6b968be910df2172359da18274c37e70aa0684462cec1a69803b1b8c292b9f2",
+    "git_blob": "3188227207a3351c704ec9b236fc0993697165e5",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/root/README.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/root/README.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/root/README.md",
+    "sha256": "02bc9400560ece282f25cb001f58c0ffd0f02baf35d71dd42db684aa8c5f2201",
+    "git_blob": "3c17d7f094815ab7e452ac443d25e5a97de0354b",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/root/SOURCE_OF_TRUTH.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/root/SOURCE_OF_TRUTH.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/root/SOURCE_OF_TRUTH.md",
+    "sha256": "2aaab764725935997caf6b43df86872876041fae3dbe2f4655d85acffef065e4",
+    "git_blob": "c28b1331bb76f1db7396cd190d7df54b20831175",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/rules/内容单元关系规则.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/rules/内容单元关系规则.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/rules/内容单元关系规则.md",
+    "sha256": "768da5de978e1bd2c8a9fba9b534caec5e2ccbf45ce55375bc5df156768065fe",
+    "git_blob": "909f2a9da30a8a426f65eb5009956035f2a3280d",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/rules/内容单元去重与版本规则.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/rules/内容单元去重与版本规则.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/rules/内容单元去重与版本规则.md",
+    "sha256": "371296a93b3e6a618d85926fbcb167292066bcec395f291ed3836cd3e55733b6",
+    "git_blob": "d17a50a179e1a470a6d00cb81507711e6a977151",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/rules/内容单元字段规范.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/rules/内容单元字段规范.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/rules/内容单元字段规范.md",
+    "sha256": "23057d548b133b3c616e75d3f5025ae3ad13d2597bbca1de570279983857ab7a",
+    "git_blob": "4fb8e3757a72fb2ad1f459bb1e24b90bf69774af",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/rules/处理流程.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/rules/处理流程.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/rules/处理流程.md",
+    "sha256": "99ec2d3f65cb024ecd9f7dc53c08db1c9c02d17bba7b07de11af529d9f1e7350",
+    "git_blob": "be0a2e5d82a4454acfdc6b036f872e2fe077463d",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/rules/新增文稿进入系统流程.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/rules/新增文稿进入系统流程.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/rules/新增文稿进入系统流程.md",
+    "sha256": "cf3e4032075093220b5a8c1458fad2bd32163ff7f85649e7dac7cce62dc4d8a4",
+    "git_blob": "0ad59451d9f4ed224f54924c66661b754a3a7940",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/scaffold/rules/来源命名规范.md",
+    "package_path": "upstream/dbskill/dbs-content-system/scaffold/rules/来源命名规范.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/scaffold/rules/来源命名规范.md",
+    "sha256": "9f50f5f04f8d6e3ac3781db3b59dd21930db91cc24b410fab0dd6dc9eafe31d6",
+    "git_blob": "1af4510572bef900a17651575c99c9c24acd5c57",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/主题地图模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/主题地图模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/主题地图模板.md",
+    "sha256": "b7bbed4987a508067717b4e89c792ad5a4bd8a6e1e942fc5535e72a28b9823c0",
+    "git_blob": "e020b6eb41186e6345e5e83873d4f2967dbf7581",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/方案单元模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/方案单元模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/方案单元模板.md",
+    "sha256": "88dd3c25f4c8e83c624a7e707fb7666bd79b0d5b65b133f53dbc421cd4178122",
+    "git_blob": "a29db0e3e64a8ba9a9386f52907dd7074559e656",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/案例单元模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/案例单元模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/案例单元模板.md",
+    "sha256": "952135d67967271ad104c4c208413dcb6685cf4691b4f56c3db7d747d5ccb188",
+    "git_blob": "229b59e50651d244dfa56ba28bb86fa52bd0887e",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/概念单元模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/概念单元模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/概念单元模板.md",
+    "sha256": "80bc570dfcb7b28a2cdc07a77f23a974cf530c079b12e93b41576c3943738452",
+    "git_blob": "57542f8d4ccd9cf2bc32dc746aff05e29e2974c2",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/观点单元模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/观点单元模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/观点单元模板.md",
+    "sha256": "4d42caa3e09aba45294f0e0797f3e7cb68801bbf0a2163eb698b4b6938495c9f",
+    "git_blob": "e64a3d6d57893807953b85130ad35f1b54179167",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/选题装配模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/选题装配模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/选题装配模板.md",
+    "sha256": "2233afcab0e42a99f2a84065e6b3a9e81670b8352b340b0566545fa1edfa8d7a",
+    "git_blob": "0689cf2203c660c2d2b7090f6458680b0fd0e203",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/templates/问题单元模板.md",
+    "package_path": "upstream/dbskill/dbs-content-system/templates/问题单元模板.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/templates/问题单元模板.md",
+    "sha256": "3aa0bf960a72daca367cce03d4e99c956f014b97517fbe275f7de089ab100ec7",
+    "git_blob": "bdccecf783f7fa304e46163a1aa3db313d99a51c",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/assemble-topic-from-units.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/assemble-topic-from-units.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/assemble-topic-from-units.js",
+    "sha256": "837c9f3831f951cc0b7519e1b6831071ef68a996812a9ca5fd1c2ec2ad7fd6c1",
+    "git_blob": "d2a278c8ab5a862971211bbb25da3b5acd00a1ca",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/extract-sample-units.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/extract-sample-units.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/extract-sample-units.js",
+    "sha256": "95c18a890fe05844e472e32edbf3c0300a207df34fa7bef72360264e7cc94eb1",
+    "git_blob": "a5bd2bfa8d80888e7403ef821385aa8c5b1b3a13",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/fill-obsidian-links.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/fill-obsidian-links.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/fill-obsidian-links.js",
+    "sha256": "99467045932407200303c2d872366a82f526a4d305c52d4fdf5d95534371ad95",
+    "git_blob": "ab9616b22921d0e68dd9f20e4d6826bb7c6314cd",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/generate-duplicate-candidates.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/generate-duplicate-candidates.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/generate-duplicate-candidates.js",
+    "sha256": "4c848c724c745c637e28033a29259bb18ab5bd5f20ebf96c34249289d297042f",
+    "git_blob": "0a6d598ab7d634bdac4b49ea7974de4c52cc1afe",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/generate-link-map.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/generate-link-map.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/generate-link-map.js",
+    "sha256": "e5cd36a5c594f87edf2a7e50766247d68f8a6300877b4a9e1704baff54dbc7f0",
+    "git_blob": "c38bcdbd1c3c1de22aa76b526167ef03d80b7875",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/generate-source-registry.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/generate-source-registry.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/generate-source-registry.js",
+    "sha256": "7a799f12ed531663eaeb1f8b998d6c0e4b0e01a7ce82d3b91b66f59a61a751de",
+    "git_blob": "98edf0847278eee1572c2ec2a70a41a0eb13b3b2",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/generate-unit-draft.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/generate-unit-draft.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/generate-unit-draft.js",
+    "sha256": "6b5c07966ad02351fc4da348d0dddd9bb32a96ba57fd75656730e47a9002cc22",
+    "git_blob": "c8a7e59d3f2273b8c1d8dd4798a9c4dd0388a0f9",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/init-content-system.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/init-content-system.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/init-content-system.js",
+    "sha256": "ae42aebc3f303a10273236aff8d64b6fbddd4e603811ef28a11daafd3ceada9a",
+    "git_blob": "e9997e20547a7dba7da72ecb3168dc37745519d7",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/rebuild-processing-ledger.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/rebuild-processing-ledger.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/rebuild-processing-ledger.js",
+    "sha256": "f35a0736289bff0acbf6d421f20741dc43901e05631c22a273913dd7d99c7628",
+    "git_blob": "704db24d0a3d2fa36d9eb84a3a2e0ca64903ac4b",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content-system/tools/summarize-system.js",
+    "package_path": "upstream/dbskill/dbs-content-system/tools/summarize-system.js",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content-system/tools/summarize-system.js",
+    "sha256": "f692b746c4efccf1cd13d57e5fb1ac1baa2cfeec3d107ebc6648f10dd431086f",
+    "git_blob": "40ae93a5d54fc1327e31bfd2b41d839e34c3a154",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-content/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-content/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-content/SKILL.md",
+    "sha256": "a621ebe4b6fb5a56d5b054f8ef677339c3c9f7f4dad83cc4bbdfd13535f969b0",
+    "git_blob": "b8ab9891d25c3ce9450278f1ec85db5b105932f3",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-diagnosis/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-diagnosis/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-diagnosis/SKILL.md",
+    "sha256": "f619b833d1c6e4829ac6fe7e0f6ba09e8418c65ec6951cd6997c2c7dbf57fd61",
+    "git_blob": "9fba4b2ae903313a0ed6b1b18e2232ed026c2b9b",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-hook/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-hook/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-hook/SKILL.md",
+    "sha256": "a7f9cf1ffe9f218d8fd91f7f2ed767fcd7294c9dbaadfbfce490e65d48329816",
+    "git_blob": "5d86094738011f66491de2db0b207ae13c8248a8",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-resonate/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-resonate/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-resonate/SKILL.md",
+    "sha256": "1ad88f527d6571754515ea4853b0628cacf513b4c822f3c13a05b12edc3b3020",
+    "git_blob": "f7653288d2c6bff54731ae3afa9083a6c6b88d14",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-script-flow/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-script-flow/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-script-flow/SKILL.md",
+    "sha256": "c0f0ac0cf78158519a9b7dc2ace8e4085e042f122e39a484da6533ea0f4e5c1e",
+    "git_blob": "996e2b724f6746fa521bdbad0198065cde88713c",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-spread/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-spread/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-spread/SKILL.md",
+    "sha256": "f3d9a5d6ba4bf793739fbd2107a1c5b9cd15324f85329db371ca17b191460030",
+    "git_blob": "063ed26c4620829fd05331b55b3862a255ae5196",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-video-extract/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/SKILL.md",
+    "sha256": "00cf87d76b6e142dbdaf73468f647a21a123a5b21a3a73632b33d98d18c499ab",
+    "git_blob": "aecc38652b04e1e3a10f050374a8e9fd0d0e0c09",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/references/api-setup.md",
+    "package_path": "upstream/dbskill/dbs-video-extract/references/api-setup.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/references/api-setup.md",
+    "sha256": "59afd86b634d1b2ef31f92d8107dca51cfef4e27e086a003e92e0e3ee85669f3",
+    "git_blob": "f1e12e1cea53de6c40b3ace4f7907a81df55ad42",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/references/qingdou-api.md",
+    "package_path": "upstream/dbskill/dbs-video-extract/references/qingdou-api.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/references/qingdou-api.md",
+    "sha256": "8f37fcd2c59859f94caf867bff357d580ed63739167cac8a57bf491e1e567e3e",
+    "git_blob": "71d2162065ef8bb529a0b79eb1929b8eff77d6ee",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/references/tikhub-api.md",
+    "package_path": "upstream/dbskill/dbs-video-extract/references/tikhub-api.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/references/tikhub-api.md",
+    "sha256": "b319a8e648229da5710997738da820480e91b53f0adc321e828c6bba4a7c1bc3",
+    "git_blob": "190536b3afe9ae7d1d5c61cad8590112e3229ec1",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/scripts/configure_api_key.py",
+    "package_path": "upstream/dbskill/dbs-video-extract/scripts/configure_api_key.py",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/scripts/configure_api_key.py",
+    "sha256": "fc5a871849d2a331030a5170851d4dc9e865a3a566e5894672901b6799a0a8f2",
+    "git_blob": "e79297fa5c55641a0da1e12a578e39dc9ce81d7a",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/scripts/extract_video.py",
+    "package_path": "upstream/dbskill/dbs-video-extract/scripts/extract_video.py",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/scripts/extract_video.py",
+    "sha256": "10a4583b5324cbafaa9d63809a91b96c7e66ddb6fb2cc476ddd9adf420c0cf2e",
+    "git_blob": "18f1376538c77e50dd8c40f87bb66f80457d45e9",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/scripts/extract_video_transcript.py",
+    "package_path": "upstream/dbskill/dbs-video-extract/scripts/extract_video_transcript.py",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/scripts/extract_video_transcript.py",
+    "sha256": "1f56a8f3db238b1add1b029d303c576f427a36ec3e56132745c36acf66cb8ae1",
+    "git_blob": "e90b90211bea3330450eebac4a075c42f527bb75",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-video-extract/scripts/tikhub_api.py",
+    "package_path": "upstream/dbskill/dbs-video-extract/scripts/tikhub_api.py",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-video-extract/scripts/tikhub_api.py",
+    "sha256": "90960a16b29c3f8e2a1d5905c5ae73e8ad20ca4fca89abf41331e83e78d12bff",
+    "git_blob": "dc643233b0e0cd8869cfcd9bb7f678353915fb5f",
+    "change": "unchanged"
+  },
+  {
+    "repository": "dontbesilent2025/dbskill",
+    "commit": "3ec74054d7e049642a77ff86e0bdea8786c444dc",
+    "source_path": "skills/dbs-xhs-title/SKILL.md",
+    "package_path": "upstream/dbskill/dbs-xhs-title/SOURCE.md",
+    "url": "https://github.com/dontbesilent2025/dbskill/blob/3ec74054d7e049642a77ff86e0bdea8786c444dc/skills/dbs-xhs-title/SKILL.md",
+    "sha256": "23fe0120c6ba53afcf6b927c4025ecc78704f2e18c758b74f78526fef8abcee8",
+    "git_blob": "d396ae6c8cbb98cd9db49ebd1bfdc7bc96196320",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "SKILL.md",
+    "package_path": "upstream/web-access/SOURCE.md",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/SKILL.md",
+    "sha256": "d03e64d73d8b9fa485d6860aba32b569c38ae966c78bc7d4b182fac034d4b31d",
+    "git_blob": "9032ff86775bef7fcc5bc4557aa45aca1b2267d9",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "references/cdp-api.md",
+    "package_path": "upstream/web-access/references/cdp-api.md",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/references/cdp-api.md",
+    "sha256": "38f853ce21ad694aafce38efc166e4d7812820f5bd2894f109a10e9f9e0e6092",
+    "git_blob": "db666f5aafae66eff2ba2567d88c8450bce8c995",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "references/migration-2.5.3.md",
+    "package_path": "upstream/web-access/references/migration-2.5.3.md",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/references/migration-2.5.3.md",
+    "sha256": "aa7aec6c623171c932bd368966e426b5ad0752f24c0bfc7981b1460f4650c34c",
+    "git_blob": "47fc01682930ab2a2e4ac0504d3d58b7349dcfc4",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "scripts/browser-discovery.mjs",
+    "package_path": "upstream/web-access/scripts/browser-discovery.mjs",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/scripts/browser-discovery.mjs",
+    "sha256": "30f62a5bad7653cbe19676c9bbffa11b82dac9a3d12599b6a748826d8f304b26",
+    "git_blob": "ac6f160b0c29de9ad4dfcb12d6c3709b6c574f8e",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "scripts/cdp-proxy.mjs",
+    "package_path": "upstream/web-access/scripts/cdp-proxy.mjs",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/scripts/cdp-proxy.mjs",
+    "sha256": "e18df1a9c971f7343c7ad28424706a083f0a115752a41c4ee31bd4bbf67d6cc3",
+    "git_blob": "3a2b975bf2f0f09fa83fe3b884ca99c2bc67b03d",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "scripts/check-deps.mjs",
+    "package_path": "upstream/web-access/scripts/check-deps.mjs",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/scripts/check-deps.mjs",
+    "sha256": "6f08c9fda6ca002af4cd10e3c7fef71c0c2449b83bb5920dae4a089f95b30524",
+    "git_blob": "87c49ba4a1219cad6a23e8ac1ebba97e59a5e931",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "scripts/find-url.mjs",
+    "package_path": "upstream/web-access/scripts/find-url.mjs",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/scripts/find-url.mjs",
+    "sha256": "b5738e490dc6da95f2ecb38d201749bfec4baf8c4184d4d439d152d7fa8346c6",
+    "git_blob": "47cf74054d768598f66f8defd22bb67082a45875",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "scripts/match-site.mjs",
+    "package_path": "upstream/web-access/scripts/match-site.mjs",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/scripts/match-site.mjs",
+    "sha256": "75a5bd66db947dc7cb894f2c14ba04845fca832d22ca664edd8e471eb72125c1",
+    "git_blob": "36f6c47513c79d4cd4eb0c9b5466359c1b3830eb",
+    "change": "unchanged"
+  },
+  {
+    "repository": "eze-is/web-access",
+    "commit": "33eef84a55b1919396a80e7a55650a07bb83f590",
+    "source_path": "templates/config.env.template",
+    "package_path": "upstream/web-access/templates/config.env.template",
+    "url": "https://github.com/eze-is/web-access/blob/33eef84a55b1919396a80e7a55650a07bb83f590/templates/config.env.template",
+    "sha256": "dd498cb0ed2c62f2947bad897079cf599f8672e62932fc05dfc1244034c42884",
+    "git_blob": "e5070f805d479e69828fd61a5b4ab6a217d71a01",
+    "change": "unchanged"
+  },
+  {
+    "repository": "hypit-ai/hypit",
+    "commit": "8a3af4fbac9c8291725d91040337950905baad6a",
+    "source_path": "LICENSE",
+    "package_path": "upstream/hypit/LICENSE",
+    "url": "https://github.com/hypit-ai/hypit/blob/8a3af4fbac9c8291725d91040337950905baad6a/LICENSE",
+    "sha256": "ed7bd598743c93dd27349eab6921e4e86884c785a33aef8ea2caeb541df8b912",
+    "git_blob": "65d9981230b9c6668784f80a3d2830ab0a148788",
+    "change": "unchanged"
+  },
+  {
+    "repository": "hypit-ai/hypit",
+    "commit": "8a3af4fbac9c8291725d91040337950905baad6a",
+    "source_path": "skills/hypit/references/creation/reference-video.md",
+    "package_path": "upstream/hypit/skills/hypit/references/creation/reference-video.md",
+    "url": "https://github.com/hypit-ai/hypit/blob/8a3af4fbac9c8291725d91040337950905baad6a/skills/hypit/references/creation/reference-video.md",
+    "sha256": "4caf892622aaa862c40f08273d2baa8234d5efcfcfe505e1950946956918f6d4",
+    "git_blob": "819d67bd94d83373b5c0aa7d21603cf1b425e622",
+    "change": "unchanged"
+  },
+  {
+    "repository": "hypit-ai/hypit",
+    "commit": "8a3af4fbac9c8291725d91040337950905baad6a",
+    "source_path": "skills/hypit/references/environment/local-tools.md",
+    "package_path": "upstream/hypit/skills/hypit/references/environment/local-tools.md",
+    "url": "https://github.com/hypit-ai/hypit/blob/8a3af4fbac9c8291725d91040337950905baad6a/skills/hypit/references/environment/local-tools.md",
+    "sha256": "46d62b12eb27c606e17af7f4d10ac2a795ef129f33637d70e690e705544b0da0",
+    "git_blob": "ef0245d3e9b23d0c04da4fbc4e578af6d529c501",
+    "change": "unchanged"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/LICENSE",
+    "package_path": "upstream/anthropic-data/LICENSE",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "git_blob": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+    "change": "unchanged"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/CONNECTORS.md",
+    "package_path": "upstream/anthropic-data/CONNECTORS.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/CONNECTORS.md",
+    "sha256": "79de0e9613ef7870e773b6dcdcb7d50f4bff2c0574c14ab5e0aeb29014dcec7b",
+    "git_blob": "bf6a50d81ff4b7065aeb0438cf5576f7ada07a9e",
+    "change": "unchanged"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/skills/analyze/SKILL.md",
+    "package_path": "upstream/anthropic-data/skills/analyze/SOURCE.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/skills/analyze/SKILL.md",
+    "sha256": "4ee816363d944c7a959e43384576d979a414f37fff7071c0bfb8935aae10143e",
+    "git_blob": "31ce9c58dd4de3038643750373de5b71a2494fa2",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/skills/explore-data/SKILL.md",
+    "package_path": "upstream/anthropic-data/skills/explore-data/SOURCE.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/skills/explore-data/SKILL.md",
+    "sha256": "af7590fa616360259da712b5ede5f79b817beb854c47a465f95774354988e8a2",
+    "git_blob": "f1e7032d0abee77903fc3abbfdc7646e383d4993",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/skills/validate-data/SKILL.md",
+    "package_path": "upstream/anthropic-data/skills/validate-data/SOURCE.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/skills/validate-data/SKILL.md",
+    "sha256": "1e424822043480375b80aef9416227b1c8083af749ca536568716265f79ca54b",
+    "git_blob": "30a1bac41bf9679dc7d96b7ec59a116f03ec0575",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/skills/statistical-analysis/SKILL.md",
+    "package_path": "upstream/anthropic-data/skills/statistical-analysis/SOURCE.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/skills/statistical-analysis/SKILL.md",
+    "sha256": "91a15cfc144efffcd622b09827362a73993a3ff30e3a78114801832477c9f8a0",
+    "git_blob": "59cc87de24a0c1b2b5b1d7ba2d8d10eb314a6557",
+    "change": "SKILL.md renamed SOURCE.md"
+  },
+  {
+    "repository": "anthropics/knowledge-work-plugins",
+    "commit": "da38ec1ee89d41e5380e652a97382695003396e7",
+    "source_path": "data/skills/data-visualization/SKILL.md",
+    "package_path": "upstream/anthropic-data/skills/data-visualization/SOURCE.md",
+    "url": "https://github.com/anthropics/knowledge-work-plugins/blob/da38ec1ee89d41e5380e652a97382695003396e7/data/skills/data-visualization/SKILL.md",
+    "sha256": "5811e8b3547cda6bc8af118aaf0d7589e8861cdc9facce6372dc78aea99ab87d",
+    "git_blob": "409cce60f59b463a8386c83cde03dc7e70be93f3",
+    "change": "SKILL.md renamed SOURCE.md"
+  }
+]
