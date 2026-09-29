@@ -33,19 +33,6 @@
 分析这份快手素材报表。先检查字段含义、重复和缺失，再按产品和素材比较消耗与成交表现。附计算依据，标出数据不足；指标口径不明确时先问我。
 ```
 
-## 来源和许可
-
-本项目组合了多个独立授权的第三方组件。**各目录按其自带许可和来源说明分别管理，不存在一个覆盖全仓库的统一开源许可。** 使用或再分发前阅读：
-
-- `THIRD-PARTY-NOTICES.md`
-- `SOURCE-MANIFEST.json`
-- `upstream/dbskill/LICENSE`（CC BY-NC 4.0；商业用途需取得许可）
-- `upstream/anthropic-data/LICENSE`（Apache-2.0）
-- `upstream/hypit/LICENSE`（修改版 Apache-2.0，含附加条件）
-- web-access 来源的许可说明（当前打包版本有 MIT 元信息声明；完整许可文本仍待补核）
-
-请勿把本 README 或根目录新增文件理解成把整个包重新许可为 MIT、Apache 或其他单一许可。版本记录和组件改动见 `references/components.md`。
-
 ## 版本
 
 当前整理版本：1.1.0（2026-09-28）。
